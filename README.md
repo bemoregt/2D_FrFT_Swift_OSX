@@ -2,6 +2,10 @@
 
 macOS용 SwiftUI 앱입니다.
 
+## Screenshot
+
+![FrFTViewer screenshot](ScrShot%207.png)
+
 이미지를 창에 드래그 앤 드롭하면:
 
 - 왼쪽에 원본 이미지를 표시합니다.
@@ -47,4 +51,3 @@ macOS용 SwiftUI 앱입니다.
 ## 참고
 
 현재 구현의 FrFT는 교육용/시각화용 성격이 강합니다. 더 정확한 수학적 정의나 더 빠른 처리 방식이 필요하면 추가 개선할 수 있습니다.
-
